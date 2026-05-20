@@ -30,7 +30,7 @@ Currently, I’m building **ORIGIN AI** — an **offline + online hybrid AI assi
 <a href="https://www.linkedin.com/in/bhardwaj-s-origin/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-<a href="https://instagram.com/bhardwaj_prasad" target="_blank">
+<a href="https://instagram.com/bhardwaj.prasad" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
 <a href="https://www.youtube.com/c/@bhardwaj_prasad" target="_blank">
