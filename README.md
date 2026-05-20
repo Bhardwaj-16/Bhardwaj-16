@@ -17,7 +17,7 @@ Currently, I’m building **ORIGIN AI** — an **offline + online hybrid AI assi
 
 - 🔭 Currently working on **[ORIGIN AI](https://github.com/Bhardwaj-16/ORIGIN-AI)**
 - 🌱 Learning **Python, AI & Machine Learning**
-- 👯 Looking to collaborate on **[H.A.N.D.](https://github.com/Bhardwaj-16/H.A.N.D.)**
+- 👯 Looking to collaborate on **[H.A.N.D.](https://github.com/Bhardwaj-16/codo)**
 - 👨‍💻 Portfolio: **https://bhardwaj-prasad.vercel.app/**
 - 📫 Reach me at **bhardwaj.14.mit@gmail.com**
 - 📄 Experience & background: **https://www.linkedin.com/in/bhardwaj-s-origin/**
