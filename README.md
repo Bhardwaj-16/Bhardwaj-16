@@ -76,9 +76,3 @@ Currently, I’m building **ORIGIN AI** — an **offline + online hybrid AI assi
 </p>
 
 ---
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhardwaj-16&show_icons=true&theme=dracula&layout=compact" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhardwaj-16&show_icons=true&theme=dracula" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhardwaj-16&theme=dark" /></p>
