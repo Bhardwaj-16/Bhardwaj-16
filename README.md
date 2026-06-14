@@ -15,6 +15,8 @@ Currently, I’m building **ORIGIN AI** — an **offline + online hybrid AI assi
 <h1 align="center">Hi 👋, I'm Bhardwaj</h1>
 <h3 align="center">Founder of ORIGIN AI | Learning AI/ML</h3>
 
+
+- Hackathons/YSWS - OffTrack, Jackpot, Highway, Moonshot, Macondo, Flavortown, Horizons, Milkyway, Campfire, Daydream, Boba Drops
 - 🔭 Currently working on **[ORIGIN AI](https://github.com/Bhardwaj-16/ORIGIN-AI)**
 - 🌱 Learning **Python, AI & Machine Learning**
 - 👯 Looking to collaborate on **[H.A.N.D.](https://github.com/Bhardwaj-16/codo)**
