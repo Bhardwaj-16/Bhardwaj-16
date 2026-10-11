@@ -14,11 +14,11 @@ Currently, I’m building **ORIGIN AI** — an **offline + online hybrid AI assi
 <h3 align="center">Founder of ORIGIN AI | Learning AI/ML</h3>
 
 
-- Hackathons/YSWS - OffTrack, Jackpot, Highway, Moonshot, Macondo, Flavortown, Horizons, Milkyway, Campfire, Daydream, Boba Drops
+- Hackathons/YSWS - Forge, Stardance, OffTrack, Jackpot, Highway, Moonshot, Macondo, Flavortown, Horizons, Milkyway, Campfire, Haven, Daydream, Boba Drops, Boba Bash and many more...
 - 🔭 Currently working on **[ORIGIN AI](https://github.com/Bhardwaj-16/ORIGIN-AI)**
 - 🌱 Learning **Python, AI & Machine Learning**
-- 👯 Looking to collaborate on **[H.A.N.D.](https://github.com/Bhardwaj-16/codo)**
-- 👨‍💻 Portfolio: **https://bhardwaj-prasad.vercel.app/**
+- 👯 Looking to collaborate on **[H.A.N.D.](https://github.com/Bhardwaj-16/h.a.n.d.)**
+- 👨‍💻 Portfolio: **https://bhardwaj.dino.icu/**
 - 📫 Reach me at **bhardwaj.14.mit@gmail.com**
 - 📄 Experience & background: **https://www.linkedin.com/in/bhardwaj-s-origin/**
 - ⚡ Fun fact: **I am a human**
