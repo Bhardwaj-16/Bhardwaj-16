@@ -1,6 +1,6 @@
 <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=23750&api_domain=hackatime.hackclub.com&custom_title=Coding+Stats&layout=compact&cache_seconds=0&langs_count=15&theme=material-palenight"/>
 
-### Innovator | AI Enthusiast | Founder
+### AI Dev | Robotics | Hardware
 
 I'm **Bhardwaj Prasad Sutara**, a high school student with a vision—building AI-driven technology that transforms how people create, build, and innovate.
 
@@ -10,8 +10,8 @@ Currently, I’m building **ORIGIN AI** — an **offline + online hybrid AI assi
 
 ---
 
-<h1 align="center">Hi 👋, I'm Bhardwaj</h1>
-<h3 align="center">Founder of ORIGIN AI | Learning AI/ML</h3>
+<h1 align="center">Hi, I'm Bhardwaj</h1>
+<h3 align="center">Founder of ORIGIN AI | Learning and Building in AI/ML</h3>
 
 
 - Hackathons/YSWS - Forge, Stardance, OffTrack, Jackpot, Highway, Moonshot, Macondo, Flavortown, Horizons, Milkyway, Campfire, Haven, Daydream, Boba Drops, Boba Bash and many more...
