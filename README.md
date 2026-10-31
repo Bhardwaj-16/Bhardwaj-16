@@ -75,4 +75,5 @@ Currently, I’m building **ORIGIN AI** — an **offline + online hybrid AI assi
 <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/></a>
 </p>
 
+NOTES: tinyurl.com/smsfinal
 ---
